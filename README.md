@@ -67,18 +67,12 @@ Intelligence series.*
 *Graph optimisation algorithm for determining the maximum number of roads that can be 
 removed while maintaining connectivity across two independent transportation networks.*
 
-*Implemented using Disjoint Set Union (Union-Find), path compression, union by rank, 
-and greedy edge selection.*
-
 ---
 
-### Agent-Based Predator–Prey System
+### [GAN Analysis](https://github.com/corimandl/GAN_analysis)
 
-*Research implementation of a complex two-species agent-based system investigating 
-the stabilisation of emergent predator–prey dynamics.*
-
-*Built with Python and JAX, incorporating evolutionary algorithms and mathematical 
-population models.*
+*Exploration and analysis of Generative Adversarial Networks (GANs), focusing on their
+behaviour, implementation, and performance.*
 
 ---
 
