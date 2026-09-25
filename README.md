@@ -1,131 +1,121 @@
-# Corinna Mandl
+# 𝐂𝐨𝐫𝐢𝐧𝐧𝐚 𝐌𝐚𝐧𝐝𝐥
 
-### AI · Software Engineering · Intelligent Systems
+### 𝐴𝐼 · 𝑆𝑜𝑓𝑡𝑤𝑎𝑟𝑒 𝐸𝑛𝑔𝑖𝑛𝑒𝑒𝑟𝑖𝑛𝑔 · 𝐼𝑛𝑡𝑒𝑙𝑙𝑖𝑔𝑒𝑛𝑡 𝑆𝑦𝑠𝑡𝑒𝑚𝑠
 
-*BSc Artificial Intelligence graduate with a background in computational research, 
-now looking to bring that foundation into applied AI and software engineering.*
-
-*My interests lie at the intersection of artificial intelligence, safety, cybersecurity, 
-and software engineering. I am particularly interested in building intelligent systems 
-that are safe, reliable, and robust.*
-
-*Beyond AI, I enjoy the creative side of software development — from web and app 
-development to games, simulations, and turning ideas into things that people can enjoy.*
+𝐵𝑆𝑐 𝐴𝑟𝑡𝑖𝑓𝑖𝑐𝑖𝑎𝑙 𝐼𝑛𝑡𝑒𝑙𝑙𝑖𝑔𝑒𝑛𝑐𝑒 𝑔𝑟𝑎𝑑𝑢𝑎𝑡𝑒 𝑤𝑖𝑡ℎ 𝑎 𝑏𝑎𝑐𝑘𝑔𝑟𝑜𝑢𝑛𝑑 𝑖𝑛 𝑐𝑜𝑚𝑝𝑢𝑡𝑎𝑡𝑖𝑜𝑛𝑎𝑙 𝑟𝑒𝑠𝑒𝑎𝑟𝑐ℎ, 
+𝑛𝑜𝑤 𝑙𝑜𝑜𝑘𝑖𝑛𝑔 𝑡𝑜 𝑏𝑟𝑖𝑛𝑔 𝑡ℎ𝑎𝑡 𝑓𝑜𝑢𝑛𝑑𝑎𝑡𝑖𝑜𝑛 𝑖𝑛𝑡𝑜 𝑎𝑝𝑝𝑙𝑖𝑒𝑑 𝐴𝐼 𝑎𝑛𝑑 𝑠𝑜𝑓𝑡𝑤𝑎𝑟𝑒 𝑒𝑛𝑔𝑖𝑛𝑒𝑒𝑟𝑖𝑛𝑔.
 
 ---
 
-## Research & Technical Interests
+## 𝐑𝐞𝐬𝐞𝐚𝐫𝐜𝐡 & 𝐓𝐞𝐜𝐡𝐧𝐢𝐜𝐚𝐥 𝐈𝐧𝐭𝐞𝐫𝐞𝐬𝐭𝐬
 
-*(i) AI Safety & Alignment*  
-*Understanding and developing AI systems whose behaviour remains safe, reliable, 
-and aligned with their intended objectives.*
+(𝑖) 𝐴𝐼 𝑆𝑎𝑓𝑒𝑡𝑦 & 𝐴𝑙𝑖𝑔𝑛𝑚𝑒𝑛𝑡  
+𝑈𝑛𝑑𝑒𝑟𝑠𝑡𝑎𝑛𝑑𝑖𝑛𝑔 𝑎𝑛𝑑 𝑑𝑒𝑣𝑒𝑙𝑜𝑝𝑖𝑛𝑔 𝐴𝐼 𝑠𝑦𝑠𝑡𝑒𝑚𝑠 𝑤ℎ𝑜𝑠𝑒 𝑏𝑒ℎ𝑎𝑣𝑖𝑜𝑢𝑟 𝑟𝑒𝑚𝑎𝑖𝑛𝑠 𝑠𝑎𝑓𝑒, 𝑟𝑒𝑙𝑖𝑎𝑏𝑙𝑒, 
+𝑎𝑛𝑑 𝑎𝑙𝑖𝑔𝑛𝑒𝑑 𝑤𝑖𝑡ℎ 𝑡ℎ𝑒𝑖𝑟 𝑖𝑛𝑡𝑒𝑛𝑑𝑒𝑑 𝑜𝑏𝑗𝑒𝑐𝑡𝑖𝑣𝑒𝑠.
 
-*(ii) AI & Cybersecurity*  
-*Exploring the intersection of increasingly capable AI systems and cybersecurity, 
-including both AI-enabled security and the new security challenges introduced by AI.*
+(𝑖𝑖) 𝐴𝐼 & 𝐶𝑦𝑏𝑒𝑟𝑠𝑒𝑐𝑢𝑟𝑖𝑡𝑦  
+𝐸𝑥𝑝𝑙𝑜𝑟𝑖𝑛𝑔 𝑡ℎ𝑒 𝑖𝑛𝑡𝑒𝑟𝑠𝑒𝑐𝑡𝑖𝑜𝑛 𝑜𝑓 𝑖𝑛𝑐𝑟𝑒𝑎𝑠𝑖𝑛𝑔𝑙𝑦 𝑐𝑎𝑝𝑎𝑏𝑙𝑒 𝐴𝐼 𝑠𝑦𝑠𝑡𝑒𝑚𝑠 𝑎𝑛𝑑 𝑐𝑦𝑏𝑒𝑟𝑠𝑒𝑐𝑢𝑟𝑖𝑡𝑦, 
+𝑖𝑛𝑐𝑙𝑢𝑑𝑖𝑛𝑔 𝑏𝑜𝑡ℎ 𝐴𝐼-𝑒𝑛𝑎𝑏𝑙𝑒𝑑 𝑠𝑒𝑐𝑢𝑟𝑖𝑡𝑦 𝑎𝑛𝑑 𝑡ℎ𝑒 𝑛𝑒𝑤 𝑠𝑒𝑐𝑢𝑟𝑖𝑡𝑦 𝑐ℎ𝑎𝑙𝑙𝑒𝑛𝑔𝑒𝑠 𝑖𝑛𝑡𝑟𝑜𝑑𝑢𝑐𝑒𝑑 𝑏𝑦 𝐴𝐼.
 
-*(iii) Safe & Reliable Decision-Making*  
-*Building intelligent systems that support robust and reliable decision-making, 
-particularly when operating in complex or uncertain environments.*
+(𝑖𝑖𝑖) 𝑆𝑎𝑓𝑒 & 𝑅𝑒𝑙𝑖𝑎𝑏𝑙𝑒 𝐷𝑒𝑐𝑖𝑠𝑖𝑜𝑛-𝑀𝑎𝑘𝑖𝑛𝑔  
+𝐵𝑢𝑖𝑙𝑑𝑖𝑛𝑔 𝑖𝑛𝑡𝑒𝑙𝑙𝑖𝑔𝑒𝑛𝑡 𝑠𝑦𝑠𝑡𝑒𝑚𝑠 𝑡ℎ𝑎𝑡 𝑠𝑢𝑝𝑝𝑜𝑟𝑡 𝑟𝑜𝑏𝑢𝑠𝑡 𝑎𝑛𝑑 𝑟𝑒𝑙𝑖𝑎𝑏𝑙𝑒 𝑑𝑒𝑐𝑖𝑠𝑖𝑜𝑛-𝑚𝑎𝑘𝑖𝑛𝑔, 
+𝑝𝑎𝑟𝑡𝑖𝑐𝑢𝑙𝑎𝑟𝑙𝑦 𝑤ℎ𝑒𝑛 𝑜𝑝𝑒𝑟𝑎𝑡𝑖𝑛𝑔 𝑖𝑛 𝑐𝑜𝑚𝑝𝑙𝑒𝑥 𝑜𝑟 𝑢𝑛𝑐𝑒𝑟𝑡𝑎𝑖𝑛 𝑒𝑛𝑣𝑖𝑟𝑜𝑛𝑚𝑒𝑛𝑡𝑠.
 
-*(iv) Multi-Agent & Complex Systems*  
-*Understanding how complex system-level behaviour emerges from interactions between 
-individual agents, and how these dynamics can be modelled, controlled, and optimised.*
+(𝑖𝑣) 𝑀𝑢𝑙𝑡𝑖-𝐴𝑔𝑒𝑛𝑡 & 𝐶𝑜𝑚𝑝𝑙𝑒𝑥 𝑆𝑦𝑠𝑡𝑒𝑚𝑠  
+𝑈𝑛𝑑𝑒𝑟𝑠𝑡𝑎𝑛𝑑𝑖𝑛𝑔 ℎ𝑜𝑤 𝑐𝑜𝑚𝑝𝑙𝑒𝑥 𝑠𝑦𝑠𝑡𝑒𝑚-𝑙𝑒𝑣𝑒𝑙 𝑏𝑒ℎ𝑎𝑣𝑖𝑜𝑢𝑟 𝑒𝑚𝑒𝑟𝑔𝑒𝑠 𝑓𝑟𝑜𝑚 𝑖𝑛𝑡𝑒𝑟𝑎𝑐𝑡𝑖𝑜𝑛𝑠 𝑏𝑒𝑡𝑤𝑒𝑒𝑛 
+𝑖𝑛𝑑𝑖𝑣𝑖𝑑𝑢𝑎𝑙 𝑎𝑔𝑒𝑛𝑡𝑠, 𝑎𝑛𝑑 ℎ𝑜𝑤 𝑡ℎ𝑒𝑠𝑒 𝑑𝑦𝑛𝑎𝑚𝑖𝑐𝑠 𝑐𝑎𝑛 𝑏𝑒 𝑚𝑜𝑑𝑒𝑙𝑙𝑒𝑑, 𝑐𝑜𝑛𝑡𝑟𝑜𝑙𝑙𝑒𝑑, 𝑎𝑛𝑑 𝑜𝑝𝑡𝑖𝑚𝑖𝑠𝑒𝑑.
 
-*(v) Applied AI & Software Engineering*  
-*Translating ideas from AI research into practical, well-engineered systems.*
-
----
-
-## Research
-
-### [Stabilising Agent-Based Predation Models using Lotka–Volterra Equations](https://github.com/corimandl/LV_ABM)
-
-*For my BSc and Honours research, I conducted a year-long independent research project 
-in artificial intelligence and computational modelling.*
-
-*I designed and implemented a complex two-species agent-based system in Python and JAX, 
-investigating the relationship between emergent agent behaviour and classical 
-Lotka–Volterra population dynamics.*
-
-*Evolutionary algorithms were used to train agents towards classical population 
-trajectories, bringing together multi-agent systems, evolutionary computation, 
-dynamical systems, simulation, and mathematical modelling.*
-
-**SAB 2026 — Accepted**
-
-*The work was accepted at the 2026 International Conference on Simulation of Adaptive 
-Behavior (SAB) and will be published in Springer Nature's Lecture Notes in Artificial 
-Intelligence series.*
+(𝑣) 𝐴𝑝𝑝𝑙𝑖𝑒𝑑 𝐴𝐼 & 𝑆𝑜𝑓𝑡𝑤𝑎𝑟𝑒 𝐸𝑛𝑔𝑖𝑛𝑒𝑒𝑟𝑖𝑛𝑔  
+𝑇𝑟𝑎𝑛𝑠𝑙𝑎𝑡𝑖𝑛𝑔 𝑖𝑑𝑒𝑎𝑠 𝑓𝑟𝑜𝑚 𝐴𝐼 𝑟𝑒𝑠𝑒𝑎𝑟𝑐ℎ 𝑖𝑛𝑡𝑜 𝑝𝑟𝑎𝑐𝑡𝑖𝑐𝑎𝑙, 𝑤𝑒𝑙𝑙-𝑒𝑛𝑔𝑖𝑛𝑒𝑒𝑟𝑒𝑑 𝑠𝑦𝑠𝑡𝑒𝑚𝑠.
 
 ---
 
-## Selected Projects
+## 𝐑𝐞𝐬𝐞𝐚𝐫𝐜𝐡
 
-### [Road Removal — Graph Optimisation with Union-Find](https://github.com/corimandl/road-removal-dsu)
+### [𝑆𝑡𝑎𝑏𝑖𝑙𝑖𝑠𝑖𝑛𝑔 𝐴𝑔𝑒𝑛𝑡-𝐵𝑎𝑠𝑒𝑑 𝑃𝑟𝑒𝑑𝑎𝑡𝑖𝑜𝑛 𝑀𝑜𝑑𝑒𝑙𝑠 𝑢𝑠𝑖𝑛𝑔 𝐿𝑜𝑡𝑘𝑎–𝑉𝑜𝑙𝑡𝑒𝑟𝑟𝑎 𝐸𝑞𝑢𝑎𝑡𝑖𝑜𝑛𝑠](https://github.com/corimandl/LV_ABM)
 
-*Graph optimisation algorithm for determining the maximum number of roads that can be 
-removed while maintaining connectivity across two independent transportation networks.*
+𝐹𝑜𝑟 𝑚𝑦 𝐵𝑆𝑐 𝑎𝑛𝑑 𝐻𝑜𝑛𝑜𝑢𝑟𝑠 𝑟𝑒𝑠𝑒𝑎𝑟𝑐ℎ, 𝐼 𝑐𝑜𝑛𝑑𝑢𝑐𝑡𝑒𝑑 𝑎 𝑦𝑒𝑎𝑟-𝑙𝑜𝑛𝑔 𝑖𝑛𝑑𝑒𝑝𝑒𝑛𝑑𝑒𝑛𝑡 𝑟𝑒𝑠𝑒𝑎𝑟𝑐ℎ 𝑝𝑟𝑜𝑗𝑒𝑐𝑡 
+𝑖𝑛 𝑎𝑟𝑡𝑖𝑓𝑖𝑐𝑖𝑎𝑙 𝑖𝑛𝑡𝑒𝑙𝑙𝑖𝑔𝑒𝑛𝑐𝑒 𝑎𝑛𝑑 𝑐𝑜𝑚𝑝𝑢𝑡𝑎𝑡𝑖𝑜𝑛𝑎𝑙 𝑚𝑜𝑑𝑒𝑙𝑙𝑖𝑛𝑔.
 
----
+𝐼 𝑑𝑒𝑠𝑖𝑔𝑛𝑒𝑑 𝑎𝑛𝑑 𝑖𝑚𝑝𝑙𝑒𝑚𝑒𝑛𝑡𝑒𝑑 𝑎 𝑐𝑜𝑚𝑝𝑙𝑒𝑥 𝑡𝑤𝑜-𝑠𝑝𝑒𝑐𝑖𝑒𝑠 𝑎𝑔𝑒𝑛𝑡-𝑏𝑎𝑠𝑒𝑑 𝑠𝑦𝑠𝑡𝑒𝑚 𝑖𝑛 𝑃𝑦𝑡ℎ𝑜𝑛 𝑎𝑛𝑑 𝐽𝐴𝑋, 
+𝑖𝑛𝑣𝑒𝑠𝑡𝑖𝑔𝑎𝑡𝑖𝑛𝑔 𝑡ℎ𝑒 𝑟𝑒𝑙𝑎𝑡𝑖𝑜𝑛𝑠ℎ𝑖𝑝 𝑏𝑒𝑡𝑤𝑒𝑒𝑛 𝑒𝑚𝑒𝑟𝑔𝑒𝑛𝑡 𝑎𝑔𝑒𝑛𝑡 𝑏𝑒ℎ𝑎𝑣𝑖𝑜𝑢𝑟 𝑎𝑛𝑑 𝑐𝑙𝑎𝑠𝑠𝑖𝑐𝑎𝑙 
+𝐿𝑜𝑡𝑘𝑎–𝑉𝑜𝑙𝑡𝑒𝑟𝑟𝑎 𝑝𝑜𝑝𝑢𝑙𝑎𝑡𝑖𝑜𝑛 𝑑𝑦𝑛𝑎𝑚𝑖𝑐𝑠.
 
-### [GAN Analysis](https://github.com/corimandl/GAN_analysis)
+𝐸𝑣𝑜𝑙𝑢𝑡𝑖𝑜𝑛𝑎𝑟𝑦 𝑎𝑙𝑔𝑜𝑟𝑖𝑡ℎ𝑚𝑠 𝑤𝑒𝑟𝑒 𝑢𝑠𝑒𝑑 𝑡𝑜 𝑡𝑟𝑎𝑖𝑛 𝑎𝑔𝑒𝑛𝑡𝑠 𝑡𝑜𝑤𝑎𝑟𝑑𝑠 𝑐𝑙𝑎𝑠𝑠𝑖𝑐𝑎𝑙 𝑝𝑜𝑝𝑢𝑙𝑎𝑡𝑖𝑜𝑛 
+𝑡𝑟𝑎𝑗𝑒𝑐𝑡𝑜𝑟𝑖𝑒𝑠, 𝑏𝑟𝑖𝑛𝑔𝑖𝑛𝑔 𝑡𝑜𝑔𝑒𝑡ℎ𝑒𝑟 𝑚𝑢𝑙𝑡𝑖-𝑎𝑔𝑒𝑛𝑡 𝑠𝑦𝑠𝑡𝑒𝑚𝑠, 𝑒𝑣𝑜𝑙𝑢𝑡𝑖𝑜𝑛𝑎𝑟𝑦 𝑐𝑜𝑚𝑝𝑢𝑡𝑎𝑡𝑖𝑜𝑛, 
+𝑑𝑦𝑛𝑎𝑚𝑖𝑐𝑎𝑙 𝑠𝑦𝑠𝑡𝑒𝑚𝑠, 𝑠𝑖𝑚𝑢𝑙𝑎𝑡𝑖𝑜𝑛, 𝑎𝑛𝑑 𝑚𝑎𝑡ℎ𝑒𝑚𝑎𝑡𝑖𝑐𝑎𝑙 𝑚𝑜𝑑𝑒𝑙𝑙𝑖𝑛𝑔.
 
-*Exploration and analysis of Generative Adversarial Networks (GANs), focusing on their
-behaviour, implementation, and performance.*
+**𝐒𝐀𝐁 𝟐𝟎𝟐𝟔 — 𝐀𝐜𝐜𝐞𝐩𝐭𝐞𝐝**
 
----
-
-## Beyond AI
-
-*I also enjoy building software simply because I like turning ideas into things that people can enjoy.*
-
-**Web & App Development** · **Game Development** · **Simulation** · 
-**Algorithm Design** · **Prototyping**
+𝑇ℎ𝑒 𝑤𝑜𝑟𝑘 𝑤𝑎𝑠 𝑎𝑐𝑐𝑒𝑝𝑡𝑒𝑑 𝑎𝑡 𝑡ℎ𝑒 2026 𝐼𝑛𝑡𝑒𝑟𝑛𝑎𝑡𝑖𝑜𝑛𝑎𝑙 𝐶𝑜𝑛𝑓𝑒𝑟𝑒𝑛𝑐𝑒 𝑜𝑛 𝑆𝑖𝑚𝑢𝑙𝑎𝑡𝑖𝑜𝑛 𝑜𝑓 𝐴𝑑𝑎𝑝𝑡𝑖𝑣𝑒 
+𝐵𝑒ℎ𝑎𝑣𝑖𝑜𝑟 (𝑆𝐴𝐵) 𝑎𝑛𝑑 𝑤𝑖𝑙𝑙 𝑏𝑒 𝑝𝑢𝑏𝑙𝑖𝑠ℎ𝑒𝑑 𝑖𝑛 𝑆𝑝𝑟𝑖𝑛𝑔𝑒𝑟 𝑁𝑎𝑡𝑢𝑟𝑒'𝑠 𝐿𝑒𝑐𝑡𝑢𝑟𝑒 𝑁𝑜𝑡𝑒𝑠 𝑖𝑛 
+𝐴𝑟𝑡𝑖𝑓𝑖𝑐𝑖𝑎𝑙 𝐼𝑛𝑡𝑒𝑙𝑙𝑖𝑔𝑒𝑛𝑐𝑒 𝑠𝑒𝑟𝑖𝑒𝑠.
 
 ---
 
-## Tools & Technologies
+## 𝐒𝐞𝐥𝐞𝐜𝐭𝐞𝐝 𝐏𝐫𝐨𝐣𝐞𝐜𝐭𝐬
 
-**Languages**  
+### [𝑅𝑜𝑎𝑑 𝑅𝑒𝑚𝑜𝑣𝑎𝑙 — 𝐺𝑟𝑎𝑝ℎ 𝑂𝑝𝑡𝑖𝑚𝑖𝑠𝑎𝑡𝑖𝑜𝑛 𝑤𝑖𝑡ℎ 𝑈𝑛𝑖𝑜𝑛-𝐹𝑖𝑛𝑑](https://github.com/corimandl/road-removal-dsu)
+
+𝐺𝑟𝑎𝑝ℎ 𝑜𝑝𝑡𝑖𝑚𝑖𝑠𝑎𝑡𝑖𝑜𝑛 𝑎𝑙𝑔𝑜𝑟𝑖𝑡ℎ𝑚 𝑓𝑜𝑟 𝑑𝑒𝑡𝑒𝑟𝑚𝑖𝑛𝑖𝑛𝑔 𝑡ℎ𝑒 𝑚𝑎𝑥𝑖𝑚𝑢𝑚 𝑛𝑢𝑚𝑏𝑒𝑟 𝑜𝑓 𝑟𝑜𝑎𝑑𝑠 𝑡ℎ𝑎𝑡 𝑐𝑎𝑛 𝑏𝑒 
+𝑟𝑒𝑚𝑜𝑣𝑒𝑑 𝑤ℎ𝑖𝑙𝑒 𝑚𝑎𝑖𝑛𝑡𝑎𝑖𝑛𝑖𝑛𝑔 𝑐𝑜𝑛𝑛𝑒𝑐𝑡𝑖𝑣𝑖𝑡𝑦 𝑎𝑐𝑟𝑜𝑠𝑠 𝑡𝑤𝑜 𝑖𝑛𝑑𝑒𝑝𝑒𝑛𝑑𝑒𝑛𝑡 𝑡𝑟𝑎𝑛𝑠𝑝𝑜𝑟𝑡𝑎𝑡𝑖𝑜𝑛 𝑛𝑒𝑡𝑤𝑜𝑟𝑘𝑠.
+
+### [𝐺𝐴𝑁 𝐴𝑛𝑎𝑙𝑦𝑠𝑖𝑠](https://github.com/corimandl/GAN_analysis)
+
+𝐸𝑥𝑝𝑙𝑜𝑟𝑎𝑡𝑖𝑜𝑛 𝑎𝑛𝑑 𝑎𝑛𝑎𝑙𝑦𝑠𝑖𝑠 𝑜𝑓 𝐺𝑒𝑛𝑒𝑟𝑎𝑡𝑖𝑣𝑒 𝐴𝑑𝑣𝑒𝑟𝑠𝑎𝑟𝑖𝑎𝑙 𝑁𝑒𝑡𝑤𝑜𝑟𝑘𝑠 (𝐺𝐴𝑁𝑠), 𝑓𝑜𝑐𝑢𝑠𝑖𝑛𝑔 𝑜𝑛 𝑡ℎ𝑒𝑖𝑟 
+𝑏𝑒ℎ𝑎𝑣𝑖𝑜𝑢𝑟, 𝑖𝑚𝑝𝑙𝑒𝑚𝑒𝑛𝑡𝑎𝑡𝑖𝑜𝑛, 𝑎𝑛𝑑 𝑝𝑒𝑟𝑓𝑜𝑟𝑚𝑎𝑛𝑐𝑒.
+
+
+
+## 𝐁𝐞𝐲𝐨𝐧𝐝 𝐀𝐈
+
+𝐼 𝑎𝑙𝑠𝑜 𝑒𝑛𝑗𝑜𝑦 𝑏𝑢𝑖𝑙𝑑𝑖𝑛𝑔 𝑠𝑜𝑓𝑡𝑤𝑎𝑟𝑒 𝑠𝑖𝑚𝑝𝑙𝑦 𝑏𝑒𝑐𝑎𝑢𝑠𝑒 𝐼 𝑙𝑖𝑘𝑒 𝑡𝑢𝑟𝑛𝑖𝑛𝑔 𝑖𝑑𝑒𝑎𝑠 𝑖𝑛𝑡𝑜 𝑡ℎ𝑖𝑛𝑔𝑠 𝑡ℎ𝑎𝑡 𝑝𝑒𝑜𝑝𝑙𝑒 𝑐𝑎𝑛 𝑒𝑛𝑗𝑜𝑦.
+
+**𝐖𝐞𝐛 & 𝐀𝐩𝐩 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐦𝐞𝐧𝐭** · **𝐆𝐚𝐦𝐞 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐦𝐞𝐧𝐭** · **𝐒𝐢𝐦𝐮𝐥𝐚𝐭𝐢𝐨𝐧** · 
+**𝐀𝐥𝐠𝐨𝐫𝐢𝐭𝐡𝐦 𝐃𝐞𝐬𝐢𝐠𝐧** · **𝐏𝐫𝐨𝐭𝐨𝐭𝐲𝐩𝐢𝐧𝐠**
+
+---
+
+## 𝐓𝐨𝐨𝐥𝐬 & 𝐓𝐞𝐜𝐡𝐧𝐨𝐥𝐨𝐠𝐢𝐞𝐬
+
+**𝐋𝐚𝐧𝐠𝐮𝐚𝐠𝐞𝐬**  
 `Python` · `JavaScript` · `Java` · `Scala` · `SQL` · `HTML` · `CSS`
 
-**AI & Data**  
-`PyTorch` · `TensorFlow` · `scikit-learn` · `XGBoost` · `JAX` · `pandas` · `NumPy`· `Seaborn`
+**𝐀𝐈 & 𝐃𝐚𝐭𝐚**  
+`PyTorch` · `TensorFlow` · `scikit-learn` · `XGBoost` · `JAX` · `pandas` · `NumPy` · `Seaborn`
 
-**Development & Workflow**  
+**𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐦𝐞𝐧𝐭 & 𝐖𝐨𝐫𝐤𝐟𝐥𝐨𝐰**  
 `Git` · `Docker` · `Jupyter` · `Cursor` · `Codex`
 
-**Product & Prototyping**  
-`Figma`· `Procreate`
+**𝐏𝐫𝐨𝐝𝐮𝐜𝐭 & 𝐏𝐫𝐨𝐭𝐨𝐭𝐲𝐩𝐢𝐧𝐠**  
+`Figma` · `Procreate`
 
 ---
 
-## Background
+## 𝐁𝐚𝐜𝐤𝐠𝐫𝐨𝐮𝐧𝐝
 
-*🎓 BSc Artificial Intelligence — Radboud University*
+🎓 𝐵𝑆𝑐 𝐴𝑟𝑡𝑖𝑓𝑖𝑐𝑖𝑎𝑙 𝐼𝑛𝑡𝑒𝑙𝑙𝑖𝑔𝑒𝑛𝑐𝑒 — 𝑅𝑎𝑑𝑏𝑜𝑢𝑑 𝑈𝑛𝑖𝑣𝑒𝑟𝑠𝑖𝑡𝑦
 
-*🏅 Artificial Intelligence Honours Programme — selected as one of 14 students 
-from a cohort of 250*
+🏅 𝐴𝑟𝑡𝑖𝑓𝑖𝑐𝑖𝑎𝑙 𝐼𝑛𝑡𝑒𝑙𝑙𝑖𝑔𝑒𝑛𝑐𝑒 𝐻𝑜𝑛𝑜𝑢𝑟𝑠 𝑃𝑟𝑜𝑔𝑟𝑎𝑚𝑚𝑒 — 𝑠𝑒𝑙𝑒𝑐𝑡𝑒𝑑 𝑎𝑠 𝑜𝑛𝑒 𝑜𝑓 14 𝑠𝑡𝑢𝑑𝑒𝑛𝑡𝑠 
+𝑓𝑟𝑜𝑚 𝑎 𝑐𝑜ℎ𝑜𝑟𝑡 𝑜𝑓 250
 
-*🔬 Year-long independent AI & computational modelling research project*
+🔬 𝑌𝑒𝑎𝑟-𝑙𝑜𝑛𝑔 𝑖𝑛𝑑𝑒𝑝𝑒𝑛𝑑𝑒𝑛𝑡 𝐴𝐼 & 𝑐𝑜𝑚𝑝𝑢𝑡𝑎𝑡𝑖𝑜𝑛𝑎𝑙 𝑚𝑜𝑑𝑒𝑙𝑙𝑖𝑛𝑔 𝑟𝑒𝑠𝑒𝑎𝑟𝑐ℎ 𝑝𝑟𝑜𝑗𝑒𝑐𝑡
 
-*📄 Research accepted at SAB 2026*
+📄 𝑅𝑒𝑠𝑒𝑎𝑟𝑐ℎ 𝑎𝑐𝑐𝑒𝑝𝑡𝑒𝑑 𝑎𝑡 𝑆𝐴𝐵 2026
 
-*👩‍🏫 Teaching Assistant in Artificial Intelligence*
-
----
-
-## Current Direction
-
-*After building a strong foundation in AI research, I'm looking to move towards a more 
-applied environment — working on problems where AI, software engineering, and 
-mathematical thinking translate into useful real-world systems.*
-
-*I'm particularly interested in opportunities involving applied AI, AI safety, 
-cybersecurity, intelligent systems, and technically challenging software engineering.*
+👩‍🏫 𝑇𝑒𝑎𝑐ℎ𝑖𝑛𝑔 𝐴𝑠𝑠𝑖𝑠𝑡𝑎𝑛𝑡 𝑖𝑛 𝐴𝑟𝑡𝑖𝑓𝑖𝑐𝑖𝑎𝑙 𝐼𝑛𝑡𝑒𝑙𝑙𝑖𝑔𝑒𝑛𝑐𝑒
 
 ---
 
-> *Interested in understanding intelligent systems — and in building ones that are 
-> safe, reliable, and useful.*
+## 𝐂𝐮𝐫𝐫𝐞𝐧𝐭 𝐃𝐢𝐫𝐞𝐜𝐭𝐢𝐨𝐧
+
+𝐴𝑓𝑡𝑒𝑟 𝑏𝑢𝑖𝑙𝑑𝑖𝑛𝑔 𝑎 𝑠𝑡𝑟𝑜𝑛𝑔 𝑓𝑜𝑢𝑛𝑑𝑎𝑡𝑖𝑜𝑛 𝑖𝑛 𝐴𝐼 𝑟𝑒𝑠𝑒𝑎𝑟𝑐ℎ, 𝐼'𝑚 𝑙𝑜𝑜𝑘𝑖𝑛𝑔 𝑡𝑜 𝑚𝑜𝑣𝑒 𝑡𝑜𝑤𝑎𝑟𝑑𝑠 𝑎 𝑚𝑜𝑟𝑒 
+𝑎𝑝𝑝𝑙𝑖𝑒𝑑 𝑒𝑛𝑣𝑖𝑟𝑜𝑛𝑚𝑒𝑛𝑡 — 𝑤𝑜𝑟𝑘𝑖𝑛𝑔 𝑜𝑛 𝑝𝑟𝑜𝑏𝑙𝑒𝑚𝑠 𝑤ℎ𝑒𝑟𝑒 𝐴𝐼, 𝑠𝑜𝑓𝑡𝑤𝑎𝑟𝑒 𝑒𝑛𝑔𝑖𝑛𝑒𝑒𝑟𝑖𝑛𝑔, 𝑎𝑛𝑑 
+𝑚𝑎𝑡ℎ𝑒𝑚𝑎𝑡𝑖𝑐𝑎𝑙 𝑡ℎ𝑖𝑛𝑘𝑖𝑛𝑔 𝑡𝑟𝑎𝑛𝑠𝑙𝑎𝑡𝑒 𝑖𝑛𝑡𝑜 𝑢𝑠𝑒𝑓𝑢𝑙 𝑟𝑒𝑎𝑙-𝑤𝑜𝑟𝑙𝑑 𝑠𝑦𝑠𝑡𝑒𝑚𝑠.
+
+𝐼'𝑚 𝑝𝑎𝑟𝑡𝑖𝑐𝑢𝑙𝑎𝑟𝑙𝑦 𝑖𝑛𝑡𝑒𝑟𝑒𝑠𝑡𝑒𝑑 𝑖𝑛 𝑜𝑝𝑝𝑜𝑟𝑡𝑢𝑛𝑖𝑡𝑖𝑒𝑠 𝑖𝑛𝑣𝑜𝑙𝑣𝑖𝑛𝑔 𝑎𝑝𝑝𝑙𝑖𝑒𝑑 𝐴𝐼, 𝐴𝐼 𝑠𝑎𝑓𝑒𝑡𝑦, 
+𝑐𝑦𝑏𝑒𝑟𝑠𝑒𝑐𝑢𝑟𝑖𝑡𝑦, 𝑖𝑛𝑡𝑒𝑙𝑙𝑖𝑔𝑒𝑛𝑡 𝑠𝑦𝑠𝑡𝑒𝑚𝑠, 𝑎𝑛𝑑 𝑡𝑒𝑐ℎ𝑛𝑖𝑐𝑎𝑙𝑙𝑦 𝑐ℎ𝑎𝑙𝑙𝑒𝑛𝑔𝑖𝑛𝑔 𝑠𝑜𝑓𝑡𝑤𝑎𝑟𝑒 𝑒𝑛𝑔𝑖𝑛𝑒𝑒𝑟𝑖𝑛𝑔.
+
+---
+
+> 𝐼𝑛𝑡𝑒𝑟𝑒𝑠𝑡𝑒𝑑 𝑖𝑛 𝑢𝑛𝑑𝑒𝑟𝑠𝑡𝑎𝑛𝑑𝑖𝑛𝑔 𝑖𝑛𝑡𝑒𝑙𝑙𝑖𝑔𝑒𝑛𝑡 𝑠𝑦𝑠𝑡𝑒𝑚𝑠 — 𝑎𝑛𝑑 𝑖𝑛 𝑏𝑢𝑖𝑙𝑑𝑖𝑛𝑔 𝑜𝑛𝑒𝑠 𝑡ℎ𝑎𝑡 𝑎𝑟𝑒 𝑠𝑎𝑓𝑒, 𝑟𝑒𝑙𝑖𝑎𝑏𝑙𝑒, 𝑎𝑛𝑑 𝑢𝑠𝑒𝑓𝑢𝑙.
